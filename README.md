@@ -97,18 +97,14 @@
 
 <div align="center">
 
-<p align="center">
+```text
+📧 Email    : virajdananjaya@gmail.com
+📱 Phone    : +94 75 929 9082
+🔗 LinkedIn : linkedin.com/in/virajdananjaya
+🌍 Location: Sri Lanka
+```
 
-📧 <b>Email</b> : virajdananjaya@gmail.com <br>
-📱 <b>Phone</b> : +94 75 929 9082 <br>
-🔗 <b>LinkedIn</b> : linkedin.com/in/virajdananjaya <br>
-🌍 <b>Location</b> : Sri Lanka
-
-</p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
 
