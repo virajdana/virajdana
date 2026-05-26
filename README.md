@@ -98,7 +98,7 @@
 <div align="center">
 
 ```text
-📧 Email    : virajdananjaya@gmail.com
+📧 Email    : virajdananjaya2000@gmail.com
 📱 Phone    : +94 75 929 9082
 🔗 LinkedIn : linkedin.com/in/virajdananjaya
 🌍 Location: Sri Lanka
