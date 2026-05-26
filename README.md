@@ -8,7 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Viraj%20Dananjaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+MERN+Stack+Developer;💻+React+%26+Node.js+Developer;⚡+Spring+Boot+Enthusiast;🔥+Building+Modern+Web+Applications" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Full+Stack+Developer;🔥+Building+Modern+Web+Applications" alt="Typing Animation"/>
 
 <br/>
 
